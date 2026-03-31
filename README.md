@@ -94,7 +94,7 @@ https://tryhackme.com/ test_2@Chrome_Browser.com letmein
 
 ## Integration with PsMapExec
 
-This codebase will be merged into [PsMapExec](https://github.com/The-Viper-One/PsMapExec) to support remote dumping of Chromium-based passwords. It will also integrate with [SessionExec](https://github.com/Leo4j/SessionExec) to leverage active user sessions and decrypt each user’s Chromium credentials.
+This codebase has also been merged into [PsMapExec]([https://github.com/The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec/wiki/04-%E2%80%90-Modules#chromium)) to support remote dumping of Chromium-based passwords.
 
 ## References
 
